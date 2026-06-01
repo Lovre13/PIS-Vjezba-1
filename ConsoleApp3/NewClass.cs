@@ -9,6 +9,10 @@ namespace ConsoleApp3
     internal class NewClass
     {
         public void praznaMetoda()
+        { 
+        
+        }
+        public void novaMetoda()
         {
 
         }
